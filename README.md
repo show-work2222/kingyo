@@ -1,2 +1,2 @@
 # kingyo
-chrome用アドオン
+add-on for Chrome

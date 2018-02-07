@@ -1,0 +1,2 @@
+# kingyo
+chrome用アドオン
